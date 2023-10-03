@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Ashis Pradhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Ashurox07/Ashurox07/blob/main/git%20vdo.mp4">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/3a/2e/8b/3a2e8b5fc5ef423b687825b9d4e524da.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashurox07&label=Profile%20views&color=0e75b6&style=flat" alt="ashurox07" /> </p>
 
