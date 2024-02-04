@@ -1,7 +1,7 @@
 <!--https://rahuldkjain.github.io/gh-profile-readme-generator/-->
 
 
-![logo](https://github.com/Ashurox07/Ashurox07/blob/main/banner%203.png)
+![logo](https://github.com/Ashurox07/Ashurox07/blob/main/banner3.gif)
 
 <h1 align="center">Hi 👋, I'm Ashis Pradhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
